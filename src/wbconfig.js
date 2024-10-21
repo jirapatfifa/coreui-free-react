@@ -1,7 +1,7 @@
 const wbconfig = {
     development: {
-        hosturl  : 'https://lab-parse-server.se-rmutl.net/api',
-        wsurl    : 'wss://lab-parse-server.se-rmutl.net',
+        hosturl  : 'https://localhost:8705/api',
+        wsurl    : 'wss://https://localhost:8705',
         masterKey     : 'wallboardapi',
         clientKey     : 'wallboardapi',
         javascriptKey : 'wallboardapi',
